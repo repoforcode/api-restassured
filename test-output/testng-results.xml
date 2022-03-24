@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="5" total="6" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2369" started-at="2022-03-24T14:26:00 IST" finished-at="2022-03-24T14:26:02 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2369" started-at="2022-03-24T14:26:00 IST" finished-at="2022-03-24T14:26:02 IST">
+      <class name="tests.PostsAPITests">
+        <test-method status="PASS" signature="initSetup()[pri:0, instance:tests.PostsAPITests@68c9133c]" name="initSetup" is-config="true" duration-ms="315" started-at="2022-03-24T14:26:00 IST" finished-at="2022-03-24T14:26:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initSetup -->
+        <test-method status="PASS" signature="CRUDPosts()[pri:0, instance:tests.PostsAPITests@68c9133c]" name="CRUDPosts" duration-ms="1961" started-at="2022-03-24T14:26:00 IST" finished-at="2022-03-24T14:26:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CRUDPosts -->
+      </class> <!-- tests.PostsAPITests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
